@@ -1,3 +1,6 @@
+<p align="center">
+ <img width="600" src="vladpobol/github-snake.svg" alt="snake"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
 <img align="left" alt="GIF" src="https://github.com/vladpobol/vladpobol/blob/main/code.gif?raw=true" width=450" height="250" />
