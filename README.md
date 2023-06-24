@@ -41,6 +41,16 @@
 
 </div>
 
+## My certificates 📜
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/vladpobol/vladpobol/blob/main/ds_bio.jpg" alt="Image 1" width="400" height="300">
+  <img src="https://github.com/vladpobol/vladpobol/blob/main/DFU_SQL.jpg" alt="Image 1" width="400" height="300">
+  <img src="https://github.com/vladpobol/vladpobol/blob/main/stat_bio.jpg" alt="Image 1" width="400" height="300">
+  <!-- Add more images here -->
+</div>
+
+
 ## Follow me 👀
 
 <div align="center">
