@@ -1,4 +1,4 @@
-<img src="https://github.com/vladpobol/vladpobol/blob/main/coding.gif?raw=true" alt="Header">
+<img src="https://github.com/vladpobol/vladpobol/blob/main/code.gif?raw=true" alt="Header" width="1000" height="400">
 
 
 <div align="center">
