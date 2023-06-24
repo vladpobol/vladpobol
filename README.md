@@ -1,10 +1,11 @@
+<img src="https://github.com/vladpobol/vladpobol/blob/main/coding.gif?raw=true" alt="Header">
+
 
 <div align="center">
 
 # Hello, I'm Vladislav 👋
 
 </div>
-
 
 <div align="center">
 
