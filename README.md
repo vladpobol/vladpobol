@@ -1,7 +1,7 @@
-<img src="https://github.com/vladpobol/vladpobol/blob/main/code.gif?raw=true" alt="Header" width="1000" height="500">
 
 
 <div align="center">
+<img src="https://github.com/vladpobol/vladpobol/blob/main/code.gif?raw=true" width="500" height="340">
 
 # Hello, I'm Vladislav 👋
 
@@ -10,8 +10,8 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=%F0%9F%94%A5+Data+Scientist+%F0%9F%94%A5)](https://git.io/typing-svg)
-
 </div>
+
 
 -  🔭 I’m currently working on **Сlassification of ships on satellite images**
 
