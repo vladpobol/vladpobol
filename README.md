@@ -13,13 +13,13 @@
 </div>
 
 
--  🔭 I’m currently working on **Сlassification of ships on satellite images**
+-  I’m currently working on **Сlassification of ships on satellite images**
 
--  🌱 I’m currently learning **TensorFlow and Spark**
+-  I’m currently learning **TensorFlow and Spark**
 
--  💬 Ask me about **Machine learning**
+-  Ask me about **Machine learning**
   
--  ⚡ Fun fact **I like snowboarding and herbal tea**
+-  Fun fact **I like snowboarding and herbal tea**
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vladpobol&theme=dracula)
 
