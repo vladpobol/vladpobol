@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ <img align="right" alt="GIF" src="https://github.com/vladpobol/vladpobol/blob/main/code.gif?raw=true" width="500" height="320" />
 <!--
 **vladpobol/vladpobol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
