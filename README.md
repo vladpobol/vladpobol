@@ -64,8 +64,7 @@
   <!-- Add more images here -->
 </div>
 
-
-## Follow me 👀
+<h2 align="center">Follow me 👀</h2>
 
 <div align="center">
 
