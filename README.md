@@ -68,9 +68,3 @@
 [![Vkontakte](https://img.shields.io/badge/VKontakte-0b0038?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/vladpobol)
 
 </div>
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladpobol&theme=tokyonight&show_icons=true)
-
-</div>
