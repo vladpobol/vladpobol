@@ -1,16 +1,15 @@
 
 
 <div align="center">
-<img src="https://github.com/vladpobol/vladpobol/blob/main/code.gif?raw=true" width="500" height="340">
 
 # Hello, I'm Vladislav 👋
 
 </div>
 
-<div align="center">
+<img src="https://github.com/vladpobol/vladpobol/blob/main/code.gif?raw=true" align="right" width="400" height="265">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=%F0%9F%94%A5+Data+Scientist+%F0%9F%94%A5)](https://git.io/typing-svg)
-</div>
+
+<div align="left">
 
 
 -  I’m currently working on **Сlassification of ships on satellite images**
@@ -19,6 +18,12 @@
 
 -  Ask me about **Machine learning**
   
+-  Learned **Data analysis** on **Karpov Kourses**
+
+-  Using **PyTorch** to develop and train **Neural networks**
+
+-  I assess the impact of models using **A/B testing**
+
 -  Fun fact **I like snowboarding and herbal tea**
 
 ## Languages and tools 🔧
