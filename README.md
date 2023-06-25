@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="https://github.com/vladpobol/vladpobol/blob/main/code.gif?raw=true" align="right" width="400" height="265">
+<img src="https://github.com/vladpobol/vladpobol/blob/main/code.gif?raw=true" align="right" width="380" height="245">
 
 
 <div align="left">
