@@ -21,8 +21,6 @@
   
 -  Fun fact **I like snowboarding and herbal tea**
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vladpobol&theme=dracula)
-
 ## Languages and tools 🔧
 
 <div align="center">
@@ -41,6 +39,15 @@
 ![Linux](https://img.shields.io/badge/Linux-0b0038?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladpobol&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladpobol&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladpobol&theme=tokyonight)
+
+</div>
+
 
 ## My certificates 📜
 
