@@ -18,7 +18,7 @@
 
 -  Ask me about **Machine learning**
   
--  Learned **Data analysis** on **Karpov Kourses**
+-  Learned **Data analysis** on **Karpov Courses**
 
 -  Using **PyTorch** to develop and train **Neural networks**
 
