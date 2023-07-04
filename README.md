@@ -58,6 +58,7 @@
 <h2 align="center">My certificates 📜</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/vladpobol/vladpobol/blob/main/сертификат StartML_page-0001.jpg" alt="Image 1" width="420" height="300">
   <img src="https://github.com/vladpobol/vladpobol/blob/main/ds_bio.jpg" alt="Image 1" width="420" height="300">
   <img src="https://github.com/vladpobol/vladpobol/blob/main/DFU_SQL.jpg" alt="Image 1" width="420" height="300">
   <img src="https://github.com/vladpobol/vladpobol/blob/main/stat_bio.jpg" alt="Image 1" width="420" height="300">
