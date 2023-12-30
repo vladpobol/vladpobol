@@ -12,19 +12,19 @@
 <div align="left">
 
 
--  I’m currently working on **Сlassification of ships on satellite images**
+-  Specializing in **Computer Vision**
 
--  I’m currently learning **TensorFlow and Spark**
+-  I’m currently learning **Spark**
 
--  Ask me about **Machine learning**
+-  I enjoy my work
   
--  Learned **Data analysis** on **Karpov Courses**
+-  Using **PyTorch** to develop **neural networks**
 
--  Using **PyTorch** to develop and train **Neural networks**
+-  For deployment I use **Docker and FastAPI**
 
 -  I assess the impact of models using **A/B testing**
 
--  Fun fact **I like snowboarding and herbal tea**
+-  Fun fact I like **snowboarding and herbal tea**
 
 
 <h2 align="center">Languages and tools 🔧</h2>
