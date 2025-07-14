@@ -32,8 +32,11 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
+![C++](https://img.shields.io/badge/-C++-0b0038?style=for-the-badge&logo=Cplusplus&logoColor=3c78a9)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-0b0038?style=for-the-badge&logo=sqlalchemy&logoColor=3c78a9)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0b0038?style=for-the-badge&logo=PyTorch&logoColor=d84f35)
+![MlFlow](https://img.shields.io/badge/-mlflow-0b0038?style=for-the-badge&logo=mlflow&logoColor=3c78a9)
+![TritonServer](https://img.shields.io/badge/-TritonServer-0b0038?style=for-the-badge&logo=nvidia&logoColor=3c78a9)
 ![PostgreSQL](https://img.shields.io/badge/Postgresql-0b0038?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0b0038?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0b0038?style=for-the-badge&logo=fastapi&logoColor=white)
